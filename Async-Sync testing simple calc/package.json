@@ -1,0 +1,15 @@
+{
+  "name": "deletemeplz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "nock": "^7.2.2"
+  }
+}
